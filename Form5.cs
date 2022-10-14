@@ -17,7 +17,7 @@ namespace QUIZPROGRAM
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=OZCAN;Initial Catalog=QUIZPROGRAM;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=THEYORULMAZZ;Initial Catalog=QUIZPROGRAM;Integrated Security=True");
         DataTable tablo = new DataTable();
 
         private void panel1_Paint(object sender, PaintEventArgs e)
