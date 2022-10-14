@@ -1,9 +1,9 @@
 # QUIZPROGRAM
 DESIGN IMAGE
 
-![form1q](https://user-images.githubusercontent.com/108897416/195900287-4e07bc8d-d465-4ba8-a722-1d819904f5b3.png)
-![form2q](https://![form3q](https://user-images.githubusercontent.com/108897416/195900307-9720087d-9663-4768-b4a1-da70d98ae20f.png)
-user-images.githubusercontent.com/108897416/195900297-3e025e90-a3f2-41bc-88af-75ba05ce63ae.png)
-![form4q](https://user-images.githubusercontent.com/108897416/195900316-42f81775-8963-4dec-8443-2689d21d1030.png)
- 
+![form1q](https://user-images.githubusercontent.com/108897416/195900471-fe0e89e7-2395-4a01-b201-c9fe389f2d92.png)
+![form2q](https://user-images.githubusercontent.com/108897416/195900478-70ea2277-edf0-4463-82f5-85659dd62cae.png)
+![form3q](https://user-images.githubusercontent.com/108897416/195900484-51cbbbd3-9b97-42b3-9106-ca5f2f90faf6.png)
+![form4q](https://user-images.githubusercontent.com/108897416/195900492-cab65b9b-13f4-4b3b-bcdd-a3ddd5dc674e.png)
+
 PROJECT DESIGN IMAGES...
